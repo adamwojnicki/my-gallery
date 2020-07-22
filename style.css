@@ -46,7 +46,7 @@ body {
 
 .profile-details__place {
   font-size: 1.4rem;
-  color: var(--dark-light1);
+  color: var(--grey-light1);
   margin-bottom: 24px;
 }
 
@@ -58,6 +58,9 @@ body {
 
 .profile-details__data * {
   background: var(--grey-light);
+  width: 100px;
+  height: 67px;
+  border-radius: 16px;
 }
 
 .profile-gallery {
